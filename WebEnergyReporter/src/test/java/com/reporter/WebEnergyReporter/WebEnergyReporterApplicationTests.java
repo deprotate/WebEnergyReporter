@@ -1,10 +1,10 @@
-package com.example.NumTest;
+package com.reporter.WebEnergyReporter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NumTestApplicationTests {
+class WebEnergyReporterApplicationTests {
 
 	@Test
 	void contextLoads() {

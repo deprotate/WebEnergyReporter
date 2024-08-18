@@ -8,11 +8,11 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>NumTest</artifactId>
+	<groupId>com.reporter</groupId>
+	<artifactId>WebEnergyReporter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>NumTest</name>
-	<description>Test project from GitHub  and tring to change it/</description>
+	<name>WebEnergyReporter</name>
+	<description>This project monitors the production and consumption of electricity at the transport hub.</description>
 	<url/>
 	<licenses>
 		<license/>
